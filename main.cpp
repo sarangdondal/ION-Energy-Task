@@ -2,7 +2,6 @@
 #include<stdint.h>
 #include "page_load.h"
 #include "pages_defination.h"
-#include "colour_text.h"
 #include "print_hirearchy.h"
 
 using namespace std;

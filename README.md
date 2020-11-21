@@ -17,5 +17,5 @@ both previous as well as next node adresses so traversing back and forth is effi
 ## Basic Build Instructions
 
 1. Clone this repo.
-2. g++ -o output main.cpp
-3. Run it: `./output`.cpp 
+2. g++ -o output.exe main.cpp
+3. Run it: `output.exe 
