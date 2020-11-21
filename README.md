@@ -18,4 +18,4 @@ both previous as well as next node adresses so traversing back and forth is effi
 
 1. Clone this repo.
 2. g++ -o output.exe main.cpp
-3. Run it: `output.exe 
+3. Run it: output.exe 
